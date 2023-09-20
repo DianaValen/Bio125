@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "id": "ScMVqhCLP59D"
       },
@@ -48,7 +48,7 @@
       "metadata": {
         "id": "tOUxdi_fQctQ"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -68,7 +68,7 @@
         "id": "dxS5hvuZUinO",
         "outputId": "2975afb2-116f-4ddf-998d-dcf7242775c0"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
